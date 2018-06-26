@@ -1,0 +1,21 @@
+Here’s the lowdown on IRCTC’s new website
+ 
+FUNCTIONS
+
+
+*The day/night indication for travel is good.
+*Mentioning the total cost on the side is a happy new option, as is the option to check earliest next availability.
+*Loved the fact that the list of saved passengers has migrated from the old site to the new 
+(the app does not have this feature).
+*It is much faster.
+
+
+How can the performance of IRCTC's website be improved?
+
+*Confused why in the senior citizen option it asks if one wants the 50% discount. 
+*Wish the interface was clearer, a page that allows you to see all at one shot.
+*log in is such a slow process.
+*better architecture, design and implementation at server side
+* avoiding congestion and less recovery things are required
+*They should provide option to chose seats (upper/lower/middle). Right now it asks for the that but it may not provide 
+that desired seat. Instead they must provide visual seat allocation like that of http://bookmyshow.com
