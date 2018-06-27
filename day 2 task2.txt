@@ -1,0 +1,20 @@
+MINUTES OF MEETING 
+CALL TO ORDER
+starting a new project :
+Data transformation,insight of the data,generalisation of the database
+
+ATTENDEES:
+TEAM LEADER
+CONTRACTOR
+
+MAIN MOTION:
+To discuss about the project insights ,database that is palm should be analysed using excel tool and the API calls ,mantaining compaign id and refferential integrity relation ,checking the code ,optimizing it and the review of the code
+   
+
+ANNOUNCEMENTS
+to ask somthing  specific ,precise questions on the project information
+
+
+ADJUSTMENTS
+
+time management ,working and showing the processes of the code that he has gone till monday ,and askin imp details from kally after vacations 
